@@ -20,17 +20,15 @@
   <img width="1000" height="6" alt="Image" src="https://github.com/user-attachments/assets/e1ad7d8b-9d74-40b2-a205-795cd836fb92" />
 </p>
 
-<!-- Operating Systems Section -->
-<h2 align="center">Operating Systems</h2>
+<h2 align="center">Technical Skills & Tools</h2>
+
+<h4 align="center">Operating Systems</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-<!-- Tech Stack Section -->
-<h2 align="center">My Tech Stack</h2>
-
-<h2 align="center">Languages & Tech Stack</h2>
+<h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -39,8 +37,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-<!-- Networking Section -->
-<h2 align="center">Networking & Simulation Tools</h2>
+<h4 align="center">Networking & Simulation Tools</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
