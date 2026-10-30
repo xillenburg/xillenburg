@@ -21,11 +21,13 @@
 </p>
 
 <!-- Tech Stack Section -->
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 </p>
 
 <!-- GitHub Stats Card -->
@@ -33,4 +35,4 @@
   <a href="https://github.com/xillenburg">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=xillenburg&langs_count=4&theme=transparent" alt="Top Languages Stats">
   </a>
-</p>****
+</p>
