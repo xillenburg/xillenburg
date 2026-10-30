@@ -1,11 +1,11 @@
 <!-- Custom Banner -->
 <p align="center">
-  <img alt="sunset-nature-forest-scenery-digital-art-4k-wallpaper" src="https://github.com/user-attachments/assets/83c33cf8-2559-427c-8d2e-6e709ba2bdbf" width="100%">
+  <img alt="sunset-nature-forest-scenery-digital-art-4k-wallpaper" src="https://github.com/user-attachments/assets/78deede9-0261-4848-9ff6-6031c653aad3" width="100%">
 </p>
 
 <!-- Top Gradient Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%">
+  <img width="1000" height="6" alt="Image" src="https://github.com/user-attachments/assets/e1ad7d8b-9d74-40b2-a205-795cd836fb92" />
 </p>
 
 <!-- About Me Section -->
@@ -17,7 +17,7 @@
 
 <!-- Bottom Gradient Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Divider" width="100%">
+  <img width="1000" height="6" alt="Image" src="https://github.com/user-attachments/assets/e1ad7d8b-9d74-40b2-a205-795cd836fb92" />
 </p>
 
 <!-- Tech Stack Section -->
