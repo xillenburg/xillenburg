@@ -20,6 +20,13 @@
   <img width="1000" height="6" alt="Image" src="https://github.com/user-attachments/assets/e1ad7d8b-9d74-40b2-a205-795cd836fb92" />
 </p>
 
+<!-- Operating Systems Section -->
+<h2 align="center">Operating Systems</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
 <!-- Tech Stack Section -->
 <h2 align="center">My Tech Stack</h2>
 
