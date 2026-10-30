@@ -5,7 +5,7 @@
 
 <!-- Top Gradient Divider -->
 <p align="center">
-  <img width="1000" height="6" alt="Image" src="https://github.com/user-attachments/assets/e1ad7d8b-9d74-40b2-a205-795cd836fb92" />
+  <img width="1000" height="6" alt="Image" src="https://github.com/user-attachments/assets/1e586aef-b36f-4697-8710-38dfc49b1bf4" />
 </p>
 
 <!-- About Me Section -->
