@@ -1,1 +1,1 @@
-[![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=xillenburg&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=xillenburg&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=xillenburg&langs_count=4&theme=transparent)
