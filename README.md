@@ -36,4 +36,4 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=xillenburg&langs_count=4&theme=transparent" alt="Top Languages Stats">
   </a>
 </p>
-<img width="300" height="150" alt="Image" src="https://github.com/user-attachments/assets/04be575c-0bf7-41a2-acaa-a35358ada852" />
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/04be575c-0bf7-41a2-acaa-a35358ada852" />
